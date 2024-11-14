@@ -1,5 +1,4 @@
 # EXNO-5-DS-DATA VISUALIZATION USING MATPLOT LIBRARY
-
 # Aim:
   To Perform Data Visualization using matplot python library for the given datas.
 
